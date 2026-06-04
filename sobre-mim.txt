@@ -1,3 +1,4 @@
 Me chamo Ana Leticia Mendes Sousa, tenho 21 anos e curso Engenharia de Software na Universidade UNIFIL.
 Estou aprendendo a utilizar Git.
 Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
+Esta linha foi criada localmente.
